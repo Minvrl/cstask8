@@ -1,0 +1,13 @@
+C:\Users\Comp\source\repos\9dec2024\tekrar_methodlar\bin\Debug\netcoreapp3.1\tekrar_methodlar.exe
+C:\Users\Comp\source\repos\9dec2024\tekrar_methodlar\bin\Debug\netcoreapp3.1\tekrar_methodlar.deps.json
+C:\Users\Comp\source\repos\9dec2024\tekrar_methodlar\bin\Debug\netcoreapp3.1\tekrar_methodlar.runtimeconfig.json
+C:\Users\Comp\source\repos\9dec2024\tekrar_methodlar\bin\Debug\netcoreapp3.1\tekrar_methodlar.runtimeconfig.dev.json
+C:\Users\Comp\source\repos\9dec2024\tekrar_methodlar\bin\Debug\netcoreapp3.1\tekrar_methodlar.dll
+C:\Users\Comp\source\repos\9dec2024\tekrar_methodlar\bin\Debug\netcoreapp3.1\tekrar_methodlar.pdb
+C:\Users\Comp\source\repos\9dec2024\tekrar_methodlar\obj\Debug\netcoreapp3.1\tekrar_methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\9dec2024\tekrar_methodlar\obj\Debug\netcoreapp3.1\tekrar_methodlar.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\9dec2024\tekrar_methodlar\obj\Debug\netcoreapp3.1\tekrar_methodlar.AssemblyInfo.cs
+C:\Users\Comp\source\repos\9dec2024\tekrar_methodlar\obj\Debug\netcoreapp3.1\tekrar_methodlar.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\9dec2024\tekrar_methodlar\obj\Debug\netcoreapp3.1\tekrar_methodlar.dll
+C:\Users\Comp\source\repos\9dec2024\tekrar_methodlar\obj\Debug\netcoreapp3.1\tekrar_methodlar.pdb
+C:\Users\Comp\source\repos\9dec2024\tekrar_methodlar\obj\Debug\netcoreapp3.1\tekrar_methodlar.genruntimeconfig.cache
